@@ -1,0 +1,5 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard", "standard-jsx"],
+  "globals": { "fetch": false, "DOMParser": false, "Event": false, "FileReader": false, "location": false, "Blob": false }
+}

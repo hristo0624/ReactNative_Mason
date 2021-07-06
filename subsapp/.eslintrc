@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard", "standard-jsx"],
+  "globals": { "fetch": false },
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true
+  }
+}

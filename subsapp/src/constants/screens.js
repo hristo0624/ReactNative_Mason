@@ -1,0 +1,21 @@
+export default {
+  APP: 'App',
+  AUTH: 'Auth',
+  CONNECT: 'Connect',
+  LOADING: 'Loading',
+  INIT_SCREEN: 'Init screen',
+  SIGN_IN: 'Sign in',
+  ENTER_CODE: 'Enter code',
+  SIGN_UP: 'Sign up',
+  FORGOT_PASSWORD: 'Forgot password',
+  HOME: 'Home',
+  HOW_IT_WORKS: 'How it works',
+  SETTINGS: 'settings',
+  CHAT: 'chat',
+  VERIFY_SUBCONTRACTOR: 'Verify Subcontractor',
+  WORK_ORDER_LIST: 'Work Order List',
+  VIEW_WORK_ORDER: 'View work order',
+  CREATE_QUOTE: 'Create quote',
+  CREATE_LINE_ITEM: 'Create line item',
+  VIEW_QUOTE: 'View quote'
+}

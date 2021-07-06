@@ -1,0 +1,29 @@
+{
+  "presets": ["babel-preset-expo"],
+  "env": {
+    "development": {
+      "plugins": []
+    },
+    "production": {
+      "plugins": []
+    }
+  },
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./"],
+      "alias": {
+        "constants": "./src/constants",
+        "pages": "./src/pages",
+        "model": "./src/model",
+        "controllers": "./src/controllers",
+        "components": "./src/components",
+        "icons": "./src/icons",
+        "utils": "./src/utils",
+        "navigation": "./src/navigation",
+        "assets": "./assets",
+        "config": "./config"
+        // "shared": "shared"
+      }
+    }]
+  ],
+}

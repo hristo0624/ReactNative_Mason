@@ -1,0 +1,25 @@
+{
+  "system": {
+    "proposal_url": "https://doc.usemason.com"
+  },
+  "sendgrid": {
+    "contract_signed_template": "d-4e78ef73ca1f4e62842fad28fb585c75",
+    "proposal_accepted_template": "d-3732e437420d412bbaaa0138ad42720d",
+    "email": "mail@usemason.com",
+    "name": "Mason",
+    "invitation_template": "d-720a6909bf964ae1b5be192b03c7035a",
+    "proposal_template": "d-a5ede83cd05c4777a15c5f4fdede82e6",
+    "api_key": "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"
+  },
+  "db": {
+    "host": "35.226.127.18",
+    "username": "admin_subcontracts",
+    "password": "f^L9Cp^YDU8juRSpUo^",
+    "database": "subcontractorsdb"
+  },
+  "twilio": {
+    "secret": "051255c8ef2bcfba4ae6a52d89521e2b",
+    "sid": "AC4ae6d55ec9a609d631b309cfba9396d3",
+    "phone": "+13104999227"
+  }
+}

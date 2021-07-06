@@ -1,0 +1,7 @@
+export const LOGOUT = 'LOGOUT'
+export const CLEAR = 'CLEAR'
+export const RECEIVE_REFERENCES = 'RECEIVE_REFERENCES'
+export const RECEIVE_USER = 'RECEIVE_USER'
+export const RECEIVE_ACCOUNT = 'RECEIVE_ACCOUNT'
+export const RECEIVE_TEAM = 'RECEIVE_TEAM'
+export const RECEIVE_LINE_ITEMS = 'RECEIVE_LINE_ITEMS'
